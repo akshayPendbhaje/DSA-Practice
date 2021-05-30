@@ -40,3 +40,8 @@ public class MaxSubArrSizeK {
         return ans;
     }
 }
+
+/*
+**************** Logic ****************
+Basic fixed size sliding window.
+*/

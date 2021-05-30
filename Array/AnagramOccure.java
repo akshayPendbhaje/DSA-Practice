@@ -1,3 +1,17 @@
+/*
+**************** Problem Description ****************
+Given a word pat and a text txt.
+Return the count of the occurences of anagrams of the word in the text.
+  Example : 
+  Input:
+  txt = forxxorfxdofr
+  pat = for
+  Output: 3
+  
+  Explanation: for, orf and ofr appears
+  in the txt, hence answer is 3.
+*/
+
 class AnagramOccure {
 
     int search(String pat, String txt) {
@@ -56,3 +70,10 @@ class AnagramOccure {
     }
     
 }
+
+
+/*
+**************** Logic ****************
+Sliding window. Create map for anagram to store char and frequency.
+Create a count variable to store distinct char count and to avoid traversing map for checking anagram.
+*/
