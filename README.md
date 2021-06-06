@@ -23,3 +23,4 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Next Greater Element](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/NextGreaterElement.java) | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) |
+|2  | [Stock Span](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/StockSpan.java) | [GFG](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#) |
