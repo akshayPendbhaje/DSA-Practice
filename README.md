@@ -24,3 +24,4 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | --- | --------- | --------- |
 |1  | [Next Greater Element](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/NextGreaterElement.java) | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) |
 |2  | [Stock Span](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/StockSpan.java) | [GFG](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#) |
+|3  | [Maximum Rectangular Area in a Histogram](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MaxAreaHistogram.java) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
