@@ -27,3 +27,4 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |2  | [Stock Span](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/StockSpan.java) | [GFG](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1#) |
 |3  | [Maximum Rectangular Area in a Histogram](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MaxAreaHistogram.java) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
 |4  | [Maximum Area Rectangle of 1 in a Binary Matrix](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MaxAreaRectInBinaryMatrix.java) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) |
+|5  | [Minimum stack element ](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MinElementStack.java) | [LeetCode](https://leetcode.com/problems/min-stack/) |
