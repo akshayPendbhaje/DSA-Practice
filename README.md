@@ -28,3 +28,5 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |3  | [Maximum Rectangular Area in a Histogram](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MaxAreaHistogram.java) | [LeetCode](https://leetcode.com/problems/largest-rectangle-in-histogram/) |
 |4  | [Maximum Area Rectangle of 1 in a Binary Matrix](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MaxAreaRectInBinaryMatrix.java) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) |
 |5  | [Minimum stack element ](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MinElementStack.java) | [LeetCode](https://leetcode.com/problems/min-stack/) |
+|6  | [Valid Parentheses](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/ValidParanthese.java) | [Leetcode](https://leetcode.com/problems/valid-parentheses/) |
+
