@@ -32,3 +32,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |7  | [The Celebrity Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/CelebrityProblem.java) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 |8  | [Merge Intervals](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MergeInterval.java) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
  
+### 3. Linked List
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Reverse a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/ReverseLinkedList.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
