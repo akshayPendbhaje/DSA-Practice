@@ -30,4 +30,5 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |5  | [Minimum stack element ](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MinElementStack.java) | [LeetCode](https://leetcode.com/problems/min-stack/) |
 |6  | [Valid Parentheses](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/ValidParanthese.java) | [Leetcode](https://leetcode.com/problems/valid-parentheses/) |
 |7  | [The Celebrity Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/CelebrityProblem.java) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
-
+|8  | [Merge Intervals](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MergeInterval.java) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
+ 
