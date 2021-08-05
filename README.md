@@ -36,3 +36,4 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Reverse a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/ReverseLinkedList.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
+|2  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DetectLoop.java) | [Leetcode](https://leetcode.com/problems/linked-list-cycle/) |
