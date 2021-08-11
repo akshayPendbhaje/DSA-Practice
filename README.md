@@ -40,5 +40,6 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |2  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DetectLoop.java) | [Leetcode](https://leetcode.com/problems/linked-list-cycle/) |
 |3  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNodeInLinkedList.java) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 |4  | [Delete N from last in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNnodeFromLast.java) | [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
-|5  | [merge sorted Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/MergeSortedLinkedList.java) | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+|5  | [Merge sorted Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/MergeSortedLinkedList.java) | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+|6  | [Is Linkedlist palindrome](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/PalindromeLinkedList.java) | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/) |
 
