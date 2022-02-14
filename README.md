@@ -25,7 +25,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Count Occurences of Anagrams](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/AnagramOccure.java) | [GFG](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1#) |
-
+|2| [Permutation in String](https://github.com/gopronooob/DSA-Practice/blob/main/Array/PermutationInString.java)|[Leetcode](https://leetcode.com/problems/permutation-in-string/)
 
 ### 3. LinkedList
 | No. | Problem | Practice Link |
