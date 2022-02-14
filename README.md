@@ -22,6 +22,8 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 
 
 ### 2. String
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
 |1  | [Count Occurences of Anagrams](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/AnagramOccure.java) | [GFG](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1#) |
 
 
