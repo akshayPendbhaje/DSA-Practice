@@ -19,6 +19,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |2  | [First negative integer in every window of size k](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/FirstNegative.java) | [GFG](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#) |
 |3  | [Maximum of all sub arrays of size k](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/MaximumOfSubArrays.java) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) |
 |4  | [Trapping Rain Water](https://github.com/gopronooob/DSA-Practice/blob/main/Array/TrappingRainWater.java) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) |
+|5  | [Merge Intervals](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MergeIntervals.java) | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
 
 
 ### 2. String
