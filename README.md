@@ -20,7 +20,8 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |3  | [Maximum of all sub arrays of size k](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/MaximumOfSubArrays.java) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) |
 |4  | [Trapping Rain Water](https://github.com/gopronooob/DSA-Practice/blob/main/Array/TrappingRainWater.java) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) |
 |5  | [Merge Intervals](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MergeIntervals.java) | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
-|6  | [Binary Search]() | [LeetCode](https://leetcode.com/problems/binary-search/) |
+|6  | [Binary Search](https://github.com/gopronooob/DSA-Practice/blob/main/Array/BinarySearch.java) | [LeetCode](https://leetcode.com/problems/binary-search/) |
+|7  | [Find First and Last Position of Element in Sorted Array]() | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 
 
 ### 2. String
