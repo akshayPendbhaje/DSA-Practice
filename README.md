@@ -24,6 +24,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |7  | [Find First and Last Position of Element in Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/FirstAndLastPosInSortedArray.java) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 |8|[Check if Array Is Sorted and Rotated](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SortedRotatedArray.java)|[LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|
 |9|[Find Minimum in Rotated Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinInRotatedSortedArray.java)|[LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
+|10|[Search in Rotated Sorted Array]( )|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
 
 ### 2. String
 | No. | Problem | Practice Link |
