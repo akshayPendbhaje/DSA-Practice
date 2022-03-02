@@ -25,7 +25,10 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |8|[Check if Array Is Sorted and Rotated](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SortedRotatedArray.java)|[LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|
 |9|[Find Minimum in Rotated Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinInRotatedSortedArray.java)|[LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
 |10|[Search in Rotated Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInRotatedSorted.java)|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
-|10|[Next Alphabetical Element]()|[LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
+|10|[Next Alphabetical Element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/NextAlphabeticalElement.java)|[LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
+|11|[Search Insert Position](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInsertPosition.java)|[LeetCode](https://leetcode.com/problems/search-insert-position/)|
+|12|[Peak element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/PeakElement.java)|[LeetCode](https://leetcode.com/problems/find-peak-element/)|
+|13|[Search a 2D Matrix]()|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix/submissions/)|
 
 ### 2. String
 | No. | Problem | Practice Link |
