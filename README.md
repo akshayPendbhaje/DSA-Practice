@@ -28,7 +28,9 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |10|[Next Alphabetical Element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/NextAlphabeticalElement.java)|[LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
 |11|[Search Insert Position](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInsertPosition.java)|[LeetCode](https://leetcode.com/problems/search-insert-position/)|
 |12|[Peak element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/PeakElement.java)|[LeetCode](https://leetcode.com/problems/find-peak-element/)|
-|13|[Search a 2D Matrix]()|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix/submissions/)|
+|13|[Search a 2D Matrix](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInMatix.java)|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix/submissions/)|
+|14  | [Allocate minimum number of pages]() | [GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#) |
+
 
 ### 2. String
 | No. | Problem | Practice Link |
