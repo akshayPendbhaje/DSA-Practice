@@ -8,8 +8,11 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | --- | --------- |
 |1  | [Array](#1-Array) | 
 |2  | [String](#2-String) |
-|3  | [LinkedList](#3-LinkedList) |
-|4  | [Stack](#4-Stack) |
+|3  | [Stack](#3-Stack) |
+|4  | [Queue](#4-Queue) |  
+|5  | [Linked List](#5-Linked-List) | 
+|6  | [Greedy](#6-Greedy) |  
+|7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) |  
 
 
 ### 1. Array
@@ -40,18 +43,8 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |3| [Longest K char substring ](https://github.com/gopronooob/DSA-Practice/blob/main/Array/LongestKcharSubStr.java)|[GFG](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/)
 
 
-### 3. LinkedList
-| No. | Problem | Practice Link |
-| --- | --------- | --------- |
-|1  | [Reverse a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/ReverseLinkedList.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
-|2  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DetectLoop.java) | [Leetcode](https://leetcode.com/problems/linked-list-cycle/) |
-|3  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNodeInLinkedList.java) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
-|4  | [Delete N from last in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNnodeFromLast.java) | [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
-|5  | [Merge sorted Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/MergeSortedLinkedList.java) | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
-|6  | [Is Linkedlist palindrome](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/PalindromeLinkedList.java) | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/) |
 
-
-### 4. Stack
+### 3. Stack
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Next Greater Element](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/NextGreaterElement.java) | [GFG](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1#) |
@@ -63,3 +56,18 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |7  | [The Celebrity Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/CelebrityProblem.java) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 |8  | [Merge Intervals](https://github.com/gopronooob/DSA-Practice/blob/main/Stack/MergeInterval.java) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
  
+### 5. LinkedList
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Reverse a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/ReverseLinkedList.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
+|2  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DetectLoop.java) | [Leetcode](https://leetcode.com/problems/linked-list-cycle/) |
+|3  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNodeInLinkedList.java) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
+|4  | [Delete N from last in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNnodeFromLast.java) | [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+|5  | [Merge sorted Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/MergeSortedLinkedList.java) | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
+|6  | [Is Linkedlist palindrome](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/PalindromeLinkedList.java) | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/) |
+
+
+### 7. Recursion and Backtracking
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Tower of Hanoi]() | [GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1#) |
