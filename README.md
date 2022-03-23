@@ -71,4 +71,5 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Tower of Hanoi](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/TowerOfHanoi.java) | [GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1#) |
-|2  | [Mobile Numeric Keypad]( ) | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+|2  | [Mobile Numeric Keypad](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCombinationOfPhone.java) | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+|3  | [Maze Path]( ) | [Leetcode](https://leetcode.com/problems/unique-paths/)|
