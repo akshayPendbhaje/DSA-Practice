@@ -73,6 +73,5 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |1  | [Tower of Hanoi](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/TowerOfHanoi.java) | [GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1#) |
 |2  | [Mobile Numeric Keypad](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCombinationOfPhone.java) | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 |3  | [Maze Path](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/UniqueMazePath.java) | [Leetcode](https://leetcode.com/problems/unique-paths/)|
-|4  | [Permutations]( ) | [Leetcode](https://leetcode.com/problems/permutations/) |
-|5  | [Permutations 2]( ) | [Leetcode](https://leetcode.com/problems/permutations-ii/) |
-
+|4  | [Permutations]( https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Permutations.java) | [Leetcode](https://leetcode.com/problems/permutations/) | 
+|5  | [Flood fill]() | [LeetCode](https://leetcode.com/problems/flood-fill/) |
