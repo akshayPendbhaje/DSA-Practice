@@ -74,4 +74,6 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |2  | [Mobile Numeric Keypad](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCombinationOfPhone.java) | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 |3  | [Maze Path](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/UniqueMazePath.java) | [Leetcode](https://leetcode.com/problems/unique-paths/)|
 |4  | [Permutations]( https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Permutations.java) | [Leetcode](https://leetcode.com/problems/permutations/) | 
-|5  | [Flood fill]() | [LeetCode](https://leetcode.com/problems/flood-fill/) |
+|5  | [Flood fill](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/FloodFill.java) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
+|6  | [Subsets]() | [Leetcode](https://leetcode.com/problems/subsets/) |
+|7  | [Subsets 2]() | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
