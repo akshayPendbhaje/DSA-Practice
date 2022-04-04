@@ -77,3 +77,5 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |5  | [Flood fill](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/FloodFill.java) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 |6  | [Subsets]() | [Leetcode](https://leetcode.com/problems/subsets/) |
 |7  | [Subsets 2]() | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
+|8  | [N Queen Problem]() | [Leetcode](https://leetcode.com/problems/n-queens/) |
+
