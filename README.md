@@ -61,10 +61,12 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | --- | --------- | --------- |
 |1  | [Reverse a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/ReverseLinkedList.java) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
 |2  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DetectLoop.java) | [Leetcode](https://leetcode.com/problems/linked-list-cycle/) |
-|3  | [Detect loop in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNodeInLinkedList.java) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
+|3  | [Delete Node from a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNodeInLinkedList.java) | [Leetcode](https://leetcode.com/problems/delete-node-in-a-linked-list/) |
 |4  | [Delete N from last in a Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/DeleteNnodeFromLast.java) | [Leetcode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 |5  | [Merge sorted Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/MergeSortedLinkedList.java) | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 |6  | [Is Linkedlist palindrome](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/PalindromeLinkedList.java) | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/) |
+|6  | [Starting point of loop]() | [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) |
+
 
 
 ### 7. Recursion and Backtracking
@@ -75,7 +77,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |3  | [Maze Path](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/UniqueMazePath.java) | [Leetcode](https://leetcode.com/problems/unique-paths/)|
 |4  | [Permutations]( https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Permutations.java) | [Leetcode](https://leetcode.com/problems/permutations/) | 
 |5  | [Flood fill](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/FloodFill.java) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
-|6  | [Subsets]() | [Leetcode](https://leetcode.com/problems/subsets/) |
+|6  | [Subsets](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Subsets.java) | [Leetcode](https://leetcode.com/problems/subsets/) |
 |7  | [Subsets 2]() | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
-|8  | [N Queen Problem]() | [Leetcode](https://leetcode.com/problems/n-queens/) |
+|8  | [N Queen Problem](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/NQueen.java) | [Leetcode](https://leetcode.com/problems/n-queens/) |
 
