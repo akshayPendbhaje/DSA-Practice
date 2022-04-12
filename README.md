@@ -66,7 +66,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |5  | [Merge sorted Linked List](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/MergeSortedLinkedList.java) | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/) |
 |6  | [Is Linkedlist palindrome](https://github.com/gopronooob/DSA-Practice/blob/main/LinkedList/PalindromeLinkedList.java) | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/) |
 |6  | [Starting point of loop]() | [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) |
-
+|8  | [Delete the Middle Node of a Linked List]()|[Leetcode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
 
 ### 7. Recursion and Backtracking
