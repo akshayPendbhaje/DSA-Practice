@@ -80,6 +80,6 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |6  | [Subsets](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Subsets.java) | [Leetcode](https://leetcode.com/problems/subsets/) |
 |7  | [Subsets 2]() | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
 |8  | [N Queen Problem](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/NQueen.java) | [Leetcode](https://leetcode.com/problems/n-queens/) |
-|9  | [Sort a stack recursively]( ) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
-|10  | [Delete Middle Element from Stack]( ) | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1#) |
+|9  | [Sort a stack recursively](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/SortStackRecursive.java) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
+|10  | [Delete Middle Element from Stack](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/StackDeleteMiddle.java) | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1#) |
 
