@@ -83,4 +83,6 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |9  | [Sort a stack recursively](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/SortStackRecursive.java) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
 |10  | [Delete Middle Element from Stack](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/StackDeleteMiddle.java) | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1#) |
 |11  | [Letter Case Permutation]() | [Leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+|12  | [Generate Parentheses]() | [Leetcode](https://leetcode.com/problems/generate-parentheses/) |
+|13  | [Print N-bit binary numbers having more 1s than 0s ]() | [GFG](https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/#) |
 
