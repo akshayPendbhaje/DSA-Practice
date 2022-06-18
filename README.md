@@ -13,6 +13,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |5  | [Linked List](#5-Linked-List) | 
 |6  | [Greedy](#6-Greedy) |  
 |7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) |  
+|8  | [Binary Tree](#8-Binary-Tree) |  
 
 
 ### 1. Array
@@ -82,7 +83,13 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |8  | [N Queen Problem](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/NQueen.java) | [Leetcode](https://leetcode.com/problems/n-queens/) |
 |9  | [Sort a stack recursively](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/SortStackRecursive.java) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
 |10  | [Delete Middle Element from Stack](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/StackDeleteMiddle.java) | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1#) |
-|11  | [Letter Case Permutation]() | [Leetcode](https://leetcode.com/problems/letter-case-permutation/) |
-|12  | [Generate Parentheses]() | [Leetcode](https://leetcode.com/problems/generate-parentheses/) |
-|13  | [Print N-bit binary numbers having more 1s than 0s ]() | [GFG](https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/#) |
+|11  | [Letter Case Permutation](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCasePermutation.java) | [Leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+|12  | [Generate Parentheses](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/GenerateParantheses.java) | [Leetcode](https://leetcode.com/problems/generate-parentheses/) |
+|13  | [Print N-bit binary numbers having more 1s than 0s ](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/nbitBitBinary.java) | [GFG](https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/#) |
 
+### 8. Binary Tree
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Binary Tree Level Order Traversal]() | [Leetcode](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+|2  | [Diameter of Binary Tree]() | [Leetcode](https://leetcode.com/problems/diameter-of-binary-tree/) |
+|3  | [Invert Binary Tree]() | [Leetcode](https://leetcode.com/problems/invert-binary-tree/) |
