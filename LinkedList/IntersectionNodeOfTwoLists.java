@@ -1,30 +1,19 @@
 /*
 **************** Problem Description ****************
-Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect.
-If the two linked lists have no intersection at all, return null.
-  Example 1 : 
+Given two lists sorted in increasing order, create a new list representing the intersection of the two lists.
+The new list should be made with its own memory — the original lists should not be changed.
+  Example 1 :
   Input:
-  intersectVal = 8, listA = [4,1,8,4,5], listB = [5,6,1,8,4,5], skipA = 2, skipB = 3
-  Output: Intersected at '8'
-  Explanation:
-  The intersected node's value is 8 (note that this must not be 0 if the two lists intersect).
-  From the head of A, it reads as [4,1,8,4,5]. From the head of B, it reads as [5,6,1,8,4,5].
-  There are 2 nodes before the intersected node in A; There are 3 nodes before the intersected node in B.
-  Example 2 : 
+  L1 = 1->2->3->4->6
+  L2 = 2->4->6->8
+  Output: 2 4 6
+  Explanation: For the given first two linked list, 2, 4 and 6 are the elements in the intersection.
+  Example 2 :
   Input:
-  intersectVal = 2, listA = [1,9,1,2,4], listB = [3,2,4], skipA = 3, skipB = 1
-  Output: Intersected at '2'
-  Explanation:
-  The intersected node's value is 2 (note that this must not be 0 if the two lists intersect).
-  From the head of A, it reads as [1,9,1,2,4]. From the head of B, it reads as [3,2,4].
-  There are 3 nodes before the intersected node in A; There are 1 node before the intersected node in B.
-  Example 3 : 
-  Input:
-  intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2
-  Output: No intersection
-  Explanation:
-  From the head of A, it reads as [2,6,4]. From the head of B, it reads as [1,5].
-  Since the two lists do not intersect, intersectVal must be 0, while skipA and skipB can be arbitrary values.
+  L1 = 10->20->40->50
+  L2 = 15->40
+  Output: 40
+  Explanation: For the given first two linked list, 40 is the element in the intersection.
 */
 
 class Sol
@@ -61,7 +50,6 @@ class Sol
 
 /*
 **************** Logic ****************
-Iterate both lists using two iterators. Any time they collide or reach end together without colliding then return any one of the pointers.
-If one of them reaches the end earlier then reuse it by moving it to the beginning of other list.
-Once both of them go through reassigning, they will be equidistant from the collision point.
+Iterate both lists. If both nodes have same data then push the node into result and increment both iterators.
+If data is not equal then only increment the iterator of the list with smaller data.
 */
