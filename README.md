@@ -73,19 +73,20 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 ### 7. Recursion and Backtracking
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
-|1  | [Tower of Hanoi](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/TowerOfHanoi.java) | [GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1#) |
-|2  | [Mobile Numeric Keypad](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCombinationOfPhone.java) | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
-|3  | [Maze Path](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/UniqueMazePath.java) | [Leetcode](https://leetcode.com/problems/unique-paths/)|
-|4  | [Permutations]( https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Permutations.java) | [Leetcode](https://leetcode.com/problems/permutations/) | 
-|5  | [Flood fill](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/FloodFill.java) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
-|6  | [Subsets](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Subsets.java) | [Leetcode](https://leetcode.com/problems/subsets/) |
-|7  | [Subsets 2]() | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
-|8  | [N Queen Problem](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/NQueen.java) | [Leetcode](https://leetcode.com/problems/n-queens/) |
-|9  | [Sort a stack recursively](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/SortStackRecursive.java) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
-|10  | [Delete Middle Element from Stack](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/StackDeleteMiddle.java) | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1#) |
-|11  | [Letter Case Permutation](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCasePermutation.java) | [Leetcode](https://leetcode.com/problems/letter-case-permutation/) |
-|12  | [Generate Parentheses](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/GenerateParantheses.java) | [Leetcode](https://leetcode.com/problems/generate-parentheses/) |
-|13  | [Print N-bit binary numbers having more 1s than 0s ](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/nbitBitBinary.java) | [GFG](https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/#) |
+|1  | [Sort a stack recursively](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/SortStackRecursive.java) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
+|2  | [Tower of Hanoi](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/TowerOfHanoi.java) | [GFG](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1#) |
+|3  | [Mobile Numeric Keypad](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCombinationOfPhone.java) | [Leetcode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+|4  | [Maze Path](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/UniqueMazePath.java) | [Leetcode](https://leetcode.com/problems/unique-paths/)|
+|5  | [Permutations]( https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Permutations.java) | [Leetcode](https://leetcode.com/problems/permutations/) | 
+|6  | [Flood fill](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/FloodFill.java) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
+|7  | [Subsets](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/Subsets.java) | [Leetcode](https://leetcode.com/problems/subsets/) |
+|8  | [Subsets 2]() | [Leetcode](https://leetcode.com/problems/subsets-ii/) |
+|9  | [N Queen Problem](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/NQueen.java) | [Leetcode](https://leetcode.com/problems/n-queens/) |
+|10  | [Sort a stack recursively](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/SortStackRecursive.java) | [GFG](https://practice.geeksforgeeks.org/problems/sort-a-stack/1#) |
+|11  | [Delete Middle Element from Stack](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/StackDeleteMiddle.java) | [GFG](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1#) |
+|12  | [Letter Case Permutation](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/LetterCasePermutation.java) | [Leetcode](https://leetcode.com/problems/letter-case-permutation/) |
+|13  | [Generate Parentheses](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/GenerateParantheses.java) | [Leetcode](https://leetcode.com/problems/generate-parentheses/) |
+|14  | [Print N-bit binary numbers having more 1s than 0s ](https://github.com/gopronooob/DSA-Practice/blob/main/RecursionAndBacktracking/nbitBitBinary.java) | [GFG](https://practice.geeksforgeeks.org/problems/print-n-bit-binary-numbers-having-more-1s-than-0s0252/1/#) |
 
 ### 8. Binary Tree
 | No. | Problem | Practice Link |
