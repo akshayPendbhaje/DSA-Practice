@@ -105,5 +105,5 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Create and Print a Graph](-) | [-](-) |
-|2  | [BFS Traversal Starting From a Given Vertex](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [-]() |
+|2  | [BFS Traversal Starting From a Given Vertex](https://github.com/gopronooob/DSA-Practice/blob/2daba96d21422184091cc0126eac9e2cf435449d/Graph/GraphBFS.java) | [GFG](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |
 |3  | [DFS Traversal Starting From a Given Vertex]() | [-](-) |
