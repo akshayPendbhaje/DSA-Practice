@@ -4,16 +4,21 @@
 For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 
 ### Table of Contents
-| No. | Topic |
+| No. | Topic | 
 | --- | --------- |
-|1  | [Array](#1-Array) | 
-|2  | [String](#2-String) |
-|3  | [Stack](#3-Stack) |
-|4  | [Queue](#4-Queue) |  
+|1  | [Array](#1-Array) |
+|2  | [String](#2-String) 
+|3  | [Stack](#3-Stack) | 
+|4  | [Queue](#4-Queue) | 
 |5  | [Linked List](#5-Linked-List) | 
-|6  | [Greedy](#6-Greedy) |  
-|7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) |  
-|8  | [Binary Tree](#8-Binary-Tree) |  
+|6  | [Greedy](#6-Greedy) |
+|7  | [Recursion and Backtracking](#7-Recursion-and-Backtracking) |
+|8  | [Binary Tree](#8-Binary-Tree) | 
+|9  | [Binary Search Tree](#9-Binary-Search-Tree) |
+|10  | [Heap](#10-Heap) |
+|11  | [Graph](#11-Graph) |
+|12  | [Trie](#12-Trie) | 
+|13  | [Dynamic Programming](#13-Dynamic-Programming) |
 
 
 ### 1. Array
@@ -96,3 +101,9 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |3  | [Invert Binary Tree](https://github.com/gopronooob/DSA-Practice/blob/main/BinaryTree/InvertBinaryTree.java) | [Leetcode](https://leetcode.com/problems/invert-binary-tree/) |
  |4  | [Binary Tree Right Side View](https://github.com/gopronooob/DSA-Practice/blob/main/BinaryTree/RightViewOfTree.java) | [Leetcode](https://leetcode.com/problems/binary-tree-right-side-view/) |
 
+### 11. Graph
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [Create and Print a Graph](-) | [-](-) |
+|2  | [BFS Traversal Starting From a Given Vertex](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [-]() |
+|3  | [DFS Traversal Starting From a Given Vertex]() | [-](-) |
