@@ -105,5 +105,37 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
 |1  | [Create and Print a Graph](-) | [-](-) |
-|2  | [BFS Traversal Starting From a Given Vertex](https://github.com/gopronooob/DSA-Practice/blob/2daba96d21422184091cc0126eac9e2cf435449d/Graph/GraphBFS.java) | [GFG](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |
-|3  | [DFS Traversal Starting From a Given Vertex]() | [-](-) |
+|2  | [BFS Traversal Starting From a Given Vertex](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/GraphBFS.java) | [GFG](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) |
+|3  | [DFS Traversal Starting From a Given Vertex](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/GraphDFS.java) | [GFG](https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) |
+|4  | [Detect Cycle in a Directed Graph](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/DirectedGraphCycle.java) | [-](-) |
+|5  | [Detect Cycle in an Undirected Graph](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/UndirectedGraphCycle.java) | [GFG](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1#) |
+|6  | [Minimum Steps By Knight](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/MinStepsByKnight.java) | [GFG](https://practice.geeksforgeeks.org/problems/steps-by-knight5927/1#) |
+|7  | [Flood Fill](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/FloodFill.java) | [Leetcode](https://leetcode.com/problems/flood-fill/) |
+|8  | [Clone Graph](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/CloneGraph.java) | [Leetcode](https://leetcode.com/problems/clone-graph/) |
+|9  | [Number of Operations to Make Network Connected](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/ConnectNetworks.java) | [Leetcode](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) |
+|10  | [Word Ladder](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/WordLadder.java) | [Leetcode](https://leetcode.com/problems/word-ladder/) |
+|11  | [Djikstra's Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/Djikstra.java) | [GFG](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1#) |
+|12  | [Topological Sort](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/TopologicalSort.java) | [GFG](https://practice.geeksforgeeks.org/problems/topological-sort/1#) |
+|13  | [Number of Islands](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/NumberOfIslands.java) | [Leetcode](https://leetcode.com/problems/number-of-islands/) |
+|14  | [Alien Dictionary](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/AlienDictionary.java) | [GFG](https://practice.geeksforgeeks.org/problems/alien-dictionary/1#) |
+|15  | [Kruskal's Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/Kruskal.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#) |
+|16  | [Prim's Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/Prim.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1#) |
+|17  | [Bellman Ford Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/BellmanFord.java) | [GFG](https://practice.geeksforgeeks.org/problems/negative-weight-cycle3504/1#) |
+|18  | [Floyd Warshall Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/FloydWarshall.java) | [GFG](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1#) |
+|19  | [Hamiltonian Path](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/HamiltonianPath.java) | [GFG](https://practice.geeksforgeeks.org/problems/hamiltonian-path2522/1#) |
+|20  | [Travelling Salesman Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/TravellingSalesman.java) | [-](-) |
+|21  | [Graph Coloring Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/GraphColoring.java) | [-](-) |
+|22  | [M Coloring Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/MColoring.java) | [GFG](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#) |
+|23  | [Snakes and Ladders](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/SnakesAndLadders.java) | [Leetcode](https://leetcode.com/problems/snakes-and-ladders/) |
+|24  | [Critical Connections in a Network (Tarjan's Algorith)](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/CriticalConnectionsInNetwork.java) | [Leetcode](https://leetcode.com/problems/critical-connections-in-a-network/) |
+|25  | [Kosaraju's Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/Kosaraju.java) | [GFG](https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1#) |
+|26  | [Longest Path in a DAG](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/LongestPathInDAG.java) | [-](-) |
+|27  | [Journey to the Moon](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/JourneyToMoon.java) | [HackerRank](https://www.hackerrank.com/challenges/journey-to-the-moon/problem) |
+|28  | [Cheapest Flights Within K Stops](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/CheapestFlightsWithinKStops.java) | [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
+|29  | [Oliver and the Game](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/OliverAndTheGame.java) | [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/) |
+|30  | [Water and Jug Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/WaterAndJug.java) | [Leetcode](https://leetcode.com/problems/water-and-jug-problem/) |
+|31  | [Minimum edges to reverse to make path from source to destination](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/MinEdgesToReverse.java) | [-](-) |
+|32  | [Euler Graph](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/EulerGraph.java) | [-](-) |
+|33  | [Vertex Cover Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/VertexCover.java) | [-](-) |
+|34  | [Number of Triangles in Directed and Undirected Graphs](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/CountTriangles.java) | [-](-) |
+|35  | [Two Clique Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/TwoClique.java) | [-](-) |
