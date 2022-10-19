@@ -23,7 +23,7 @@ class Solution
 
         int[] cost = new int[n];
         Arrays.fill(cost, 999999);
-        distance[0] = 0;
+        cost[0] = 0;
 
         for(int i=1;i<n;i++)
         {
