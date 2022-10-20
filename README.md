@@ -134,7 +134,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |28  | [Cheapest Flights Within K Stops](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/CheapestFlightsWithinKStops.java) | [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
 |29  | [Oliver and the Game](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/OliverAndTheGame.java) | [HackerEarth](https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/) |
 |30  | [Water and Jug Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/WaterAndJug.java) | [Leetcode](https://leetcode.com/problems/water-and-jug-problem/) |
-|31  | [Minimum edges to reverse to make path from source to destination](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/MinEdgesToReverse.java) | [-](-) |
+|31  | [Minimum edges to reverse to make path from source to destination](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/MinEdgesToReverse.java) |  [GFG](https://practice.geeksforgeeks.org/problems/minimum-edges/1) |
 |32  | [Euler Graph](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/EulerGraph.java) | [-](-) |
 |33  | [Vertex Cover Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/VertexCover.java) | [-](-) |
 |34  | [Number of Triangles in Directed and Undirected Graphs](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/CountTriangles.java) | [-](-) |
