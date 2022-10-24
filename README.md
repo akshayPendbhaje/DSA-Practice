@@ -139,3 +139,58 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |33  | [Vertex Cover Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/VertexCover.java) | [-](-) |
 |34  | [Number of Triangles in Directed and Undirected Graphs](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/CountTriangles.java) | [-](-) |
 |35  | [Two Clique Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Graph/TwoClique.java) | [-](-) |
+
+
+### 13. Dynamic Programming
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [0-1 Knapsack Problem](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/01Knapsack.java) | [GFG](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1#) |
+|2  | [Subset Sum Problem](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/SubsetSum.java) | [GFG](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) |
+|3  | [Partition Equal Subset Sum](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/EqualSubsetSum.java) | [Leetcode](https://leetcode.com/problems/partition-equal-subset-sum/) |
+|4  | [Count of subsets with sum equal to X](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/CountSubsetSum.java) | [-](-) |
+|5  | [Minimum Sum Partition](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MinimumSumPartition.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1#) |
+|6  | [Target Sum](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/TargetSum.java) | [Leetcode](https://leetcode.com/problems/target-sum/) |
+|7  | [Unbounded Knapsack](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/UnboundedKnapsack.java) | [GFG](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1#) |
+|8  | [Rod Cutting Problem](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/RodCutting.java) | [GFG](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1#) |
+|9  | [Coin Change 1](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/CoinChange1.java) | [Leetcode](https://leetcode.com/problems/coin-change) |
+|10  | [Coin Change 2](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/CoinChange2.java) | [Leetcode](https://leetcode.com/problems/coin-change-2/) |
+|11  | [Longest Common Subsequence](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/LongestCommonSubsequence.java) | [Leetcode](https://leetcode.com/problems/longest-common-subsequence/) |
+|12  | [Longest Common Substring](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/LongestCommonSubstring.java) | [GFG](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1#) |
+|13  | [Minimum number of deletions and insertions to transform string A to B](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MinInsertionAndDeletion.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1#) |
+|14  | [Shortest Common Supersequence](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/ShortestCommonSuperSequence.java) | [Leetcode](https://leetcode.com/problems/shortest-common-supersequence/) |
+|15  | [Longest Palindromic Supersequence](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/LongestPalindromicSubsequence.java) | [Leetcode](https://leetcode.com/problems/longest-palindromic-subsequence/) |
+|16  | [Longest Repeating Supersequence](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/LongestRepeatingSubsequence.java) | [GFG](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1#) |
+|17  | [Minimum Insertion Steps to Make a String Palindrome](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MinInsertionToMakePalindrome.java) | [Leetcode](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
+|18  | [Matrix Chain Multiplication](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MatrixChainMultiplication.java) | [GFG](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1#) |
+|19  | [Palindromic Partitioning](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/PalindromicPartitioning.java) | [GFG](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1#) |
+|20  | [Boolean Parenthesization](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/BooleanParenthesization.java) | [GFG](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1#) |
+|21  | [Scramble String](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/ScrambleString.java) | [Leetcode](https://leetcode.com/problems/scramble-string/) |
+|22  | [Egg Dropping Problem](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/EggDropping.java) | [Leetcode](https://leetcode.com/problems/super-egg-drop/) |
+|23  | [nCr (Pascal's Triangle)](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/nCr.java) | [GFG](https://practice.geeksforgeeks.org/problems/ncr1019/1#) |
+|24  | [Nth Catalan Number](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/CatalanNumber.java) | [GFG](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1#) |
+|25  | [Edit Distance](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/EditDistance.java) | [Leetcode](https://leetcode.com/problems/edit-distance/) |
+|26  | [Friends Pairing Problem](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/FriendsPairing.java) | [GFG](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1#) |
+|27  | [Paint Fence](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/PaintFence.java) | [GFG](https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1#) |
+|28  | [Maximize Cut Segments](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MaxCutSegments.java) | [GFG](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1#) |
+|29  | [Longest Increasing Subsequence](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/LongestIncreasingSubsequence.java) | [Leetcode](https://leetcode.com/problems/longest-increasing-subsequence/) |
+|30  | [Longest Common Subsequence of 3 Strings](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/LCSof3Strings.java) | [GFG](https://practice.geeksforgeeks.org/problems/lcs-of-three-strings0028/1#) |
+|31  | [Maximum Sum Increasing Subsequence](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MaxSumIncreasingSubsequence.java) | [GFG](https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1#) |
+|32  | [Maximum Length of Pair Chain](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MaxLengthChain.java) | [Leetcode](https://leetcode.com/problems/maximum-length-of-pair-chain/) |
+|33  | [Maximal Square](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MaximalSquare.java) | [Leetcode](https://leetcode.com/problems/maximal-square/) |
+|34  | [Pairs with Specific Difference](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/SpecificDifferencePairs.java) | [GFG](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1#) |
+|35  | [Minimum Path Sum](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MinimumPathSum.java) | [Leetcode](https://leetcode.com/problems/minimum-path-sum/) |
+|36  | [Jump Game](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/JumpGame.java) | [Leetcode](https://leetcode.com/problems/jump-game/) |
+|37  | [Jump Game 2](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/JumpGame2.java) | [Leetcode](https://leetcode.com/problems/jump-game-ii/) |
+|38  | [Minimum cost to fill given weight in a bag](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MinCostToFillWeight.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1#) |
+|39  | [Count Balanced Binary Trees of Height h](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/BBTCounter.java) | [GFG](https://practice.geeksforgeeks.org/problems/bbt-counter4914/1#) |
+|40  | [Maximum Subarray (Kadane's Algorithm)](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MaxSubArray.java) | [Leetcode](https://leetcode.com/problems/maximum-subarray/) |
+|41  | [Count Palindromic Subsequences](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/CountPalindromicSubsequences.java) | [GFG](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1#) |
+|42  | [Longest Palindromic Substring](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/LongestPalindromicSubstring.java) | [Leetcode](https://leetcode.com/problems/longest-palindromic-substring/) |
+|43  | [Maximum profit by buying and selling a stock atmost twice](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/BuyAndSellStock3.java) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |
+|44  | [Word Wrap](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/WordWrap.java) | [GFG](https://practice.geeksforgeeks.org/problems/word-wrap1646/1#) |
+|45  | [Mobile Numeric Keypad](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/MobileNumericKeypad.java) | [GFG](https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1#) |
+|46  | [Interleaving String](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/InterleavingString.java) | [Leetcode](https://leetcode.com/problems/interleaving-string/) |
+|47  | [Maximum Profit in Job Scheduling](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/JobSchedulingMaxProfit.java) | [Leetcode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) |
+|48  | [Cheapest Flights Within K Stops](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/CheapestFlightsWithinKStops.java) | [Leetcode](https://leetcode.com/problems/cheapest-flights-within-k-stops/) |
+|49  | [Burst Balloons](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/BurstBalloons.java) | [Leetcode](https://leetcode.com/problems/burst-balloons/) |
+|50  | [Cherry Pickup 2](https://github.com/gopronooob/DSA-Practice/blob/main/DynamicProgramming/CherryPickup2.java) | [Leetcode](https://leetcode.com/problems/cherry-pickup-ii/) |

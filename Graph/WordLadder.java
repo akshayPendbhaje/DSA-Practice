@@ -29,9 +29,7 @@ class Solution {
         if(!wordList.contains(endWord)) return 0;
 
         Queue<String> q = new LinkedList<>();
-        q.add(beginWord);
-        Set<String> visited = new HashSet<>();
-        visited.add(beginWord);
+        q.add(beginWord); 
 
         int ans=0;
         while(!q.isEmpty())
