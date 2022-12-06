@@ -24,21 +24,49 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 ### 1. Array
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
-|1  | [Max Sum Subarray of size K](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/MaxSubArrSizeK.java) | [GFG](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#) |
-|2  | [First negative integer in every window of size k](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/FirstNegative.java) | [GFG](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#) |
-|3  | [Maximum of all sub arrays of size k](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/MaximumOfSubArrays.java) | [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) |
-|4  | [Trapping Rain Water](https://github.com/gopronooob/DSA-Practice/blob/main/Array/TrappingRainWater.java) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) |
-|5  | [Merge Intervals](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MergeIntervals.java) | [LeetCode](https://leetcode.com/problems/merge-intervals/) |
-|6  | [Binary Search](https://github.com/gopronooob/DSA-Practice/blob/main/Array/BinarySearch.java) | [LeetCode](https://leetcode.com/problems/binary-search/) |
-|7  | [Find First and Last Position of Element in Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/FirstAndLastPosInSortedArray.java) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
-|8|[Check if Array Is Sorted and Rotated](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SortedRotatedArray.java)|[LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|
-|9|[Find Minimum in Rotated Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinInRotatedSortedArray.java)|[LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|
-|10|[Search in Rotated Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInRotatedSorted.java)|[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)|
-|10|[Next Alphabetical Element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/NextAlphabeticalElement.java)|[LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|
-|11|[Search Insert Position](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInsertPosition.java)|[LeetCode](https://leetcode.com/problems/search-insert-position/)|
-|12|[Peak element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/PeakElement.java)|[LeetCode](https://leetcode.com/problems/find-peak-element/)|
-|13|[Search a 2D Matrix](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInMatix.java)|[LeetCode](https://leetcode.com/problems/search-a-2d-matrix/submissions/)|
-|14  | [Allocate minimum number of pages](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MaxPages.java) | [GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#) |
+|1  | [Max Sum Subarray of size K](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MaxSumSubArrayOfSizeK.java) | [GFG](https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#) |
+|2  | [First negative integer in every window of size k](https://github.com/gopronooob/DSA-Practice/blob/main/Array/FirstNegativeInWindow.java) | [GFG](https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1#) |
+|3  | [Maximum of all sub arrays of size k](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SlidingWindowMaximum.java) | [InterviewBit](https://www.interviewbit.com/problems/sliding-window-maximum/#) |
+|4  | [Subarray Sum Equals K](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SubArraysWithSumK.java) | [Leetcode](https://leetcode.com/problems/subarray-sum-equals-k/) |
+|5  | [Trapping Rain Water](https://github.com/gopronooob/DSA-Practice/blob/main/Array/TrappingRainWater.java) | [Leetcode](https://leetcode.com/problems/trapping-rain-water/) |
+|6  | [Gas Station](https://github.com/gopronooob/DSA-Practice/blob/main/Array/GasStation.java) | [Leetcode](https://leetcode.com/problems/gas-station/) |
+|7  | [Merge Intervals](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MergeIntervals.java) | [Leetcode](https://leetcode.com/problems/merge-intervals/) |
+|8  | [Find First and Last Position of Element in Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/FirstAndLastPosInSortedArray.java) | [Leetcode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+|9  | [Check if Array Is Sorted and Rotated](https://github.com/gopronooob/DSA-Practice/blob/main/Array/CheckSortedRotatedArray.java) | [Leetcode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) |
+|10  | [Find Minimum in Rotated Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinInRotatedSortedArray.java) | [Leetcode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+|11  | [Search in Rotated Sorted Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInRotatedSortedArray.java) | [Leetcode](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+|12  | [Search Insert Position](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInsertPosition.java) | [Leetcode](https://leetcode.com/problems/search-insert-position/) |
+|13  | [Next Alphabetical Element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/NextAlphabeticalElement.java) | [Leetcode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |
+|14  | [Find Peak Element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/PeakElement.java) | [Leetcode](https://leetcode.com/problems/find-peak-element/) |
+|15  | [Search in a 2D Sorted Matrix](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SearchInMatix.java) | [Leetcode](https://leetcode.com/problems/search-a-2d-matrix/) |
+|16  | [Allocate minimum number of pages](https://github.com/gopronooob/DSA-Practice/blob/main/Array/AllocateMinPages.java) | [GFG](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1#) |
+|17  | [The Celebrity Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Array/CelebrityProblem.java) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
+|18  | [Minimize maximum difference between the heights](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinimizeHeights.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#) |
+|19  | [Find the Duplicate Number](https://github.com/gopronooob/DSA-Practice/blob/main/Array/DuplicateNumber.java) | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
+|20  | [Merge 2 sorted arrays without extra space](https://github.com/gopronooob/DSA-Practice/blob/main/Array/Merge2SortedArrays.java) | [GFG](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1#) |
+|21  | [Maximum Subarray (Kadane's Algorithm)](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MaxSubArray.java) | [Leetcode](https://leetcode.com/problems/maximum-subarray/) |
+|22  | [Next Permutation](https://github.com/gopronooob/DSA-Practice/blob/main/Array/NextPermutation.java) | [Leetcode](https://leetcode.com/problems/next-permutation/) |
+|23  | [Count Inversions](https://github.com/gopronooob/DSA-Practice/blob/main/Array/CountInversions.java) | [GFG](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#) |
+|24  | [Best Time to Buy and Sell Stock](https://github.com/gopronooob/DSA-Practice/blob/main/Array/BuyAndSellStock.java) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+|25  | [Two Sum](https://github.com/gopronooob/DSA-Practice/blob/main/Array/TwoSum.java) | [Leetcode](https://leetcode.com/problems/two-sum/) |
+|26  | [Three Sum](https://github.com/gopronooob/DSA-Practice/blob/main/Array/ThreeSum.java) | [Leetcode](https://leetcode.com/problems/3sum/) |
+|27  | [Common Elements](https://github.com/gopronooob/DSA-Practice/blob/main/Array/CommonElements.java) | [GFG](https://practice.geeksforgeeks.org/problems/common-elements1132/1#) |
+|28  | [Subarray with 0 Sum](https://github.com/gopronooob/DSA-Practice/blob/main/Array/ZeroSumSubarray.java) | [GFG](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1#) |
+|29  | [Chocolate Distribution Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Array/ChocolateDistribution.java) | [GFG](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1#) |
+|30  | [Sort Colors](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SortColors.java) | [Leetcode](https://leetcode.com/problems/sort-colors/) |
+|31  | [Minimum swaps and K together](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinSwapsForKTogether.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-swaps-required-to-bring-all-elements-less-than-or-equal-to-k-together4847/1#) |
+|32  | [Median of Two Sorted Arrays](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MedianOf2SortedArrays.java) | [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+|33  | [Median in a Row Wise Sorted Matrix](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MedianInRowSortedMatrix.java) | [InterviewBit](https://www.interviewbit.com/problems/matrix-median/) |
+|34  | [Rotate Image](https://github.com/gopronooob/DSA-Practice/blob/main/Array/RotateImage.java) | [Leetcode](https://leetcode.com/problems/rotate-image/) |
+|35  | [Kth Smallest Element in a Sorted Matrix](https://github.com/gopronooob/DSA-Practice/blob/main/Array/KthSmallestInSortedMatrix.java) | [Leetcode](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
+|36  | [Square Root of a Number](https://github.com/gopronooob/DSA-Practice/blob/main/Array/SquareRoot.java) | [Leetcode](https://leetcode.com/problems/sqrtx/) |
+|37  | [Repeat and Missing Number Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MissingAndRepeatingElement.java) | [InterviewBit](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) |
+|38  | [Majority Element](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MajorityElement.java) | [Leetcode](https://leetcode.com/problems/majority-element/) |
+|39  | [K-diff Pairs in an Array](https://github.com/gopronooob/DSA-Practice/blob/main/Array/KDiffPairs.java) | [Leetcode](https://leetcode.com/problems/k-diff-pairs-in-an-array/) |
+|40  | [Four Sum](https://github.com/gopronooob/DSA-Practice/blob/main/Array/FourSum.java) | [Leetcode](https://leetcode.com/problems/4sum/) |
+|41  | [Minimum Swaps to Sort](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinSwapsToSort.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-swaps/1#) |
+|42  | [Magnetic Force Between Two Balls](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MaxForceBetweenBalls.java) | [Leetcode](https://leetcode.com/problems/magnetic-force-between-two-balls/) |
+|43  | [Container With Most Water](https://github.com/gopronooob/DSA-Practice/blob/main/Array/ContainerWithMostWater.java) | [Leetcode](https://leetcode.com/problems/container-with-most-water/) |
 
 
 ### 2. String
