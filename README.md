@@ -68,14 +68,27 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |42  | [Magnetic Force Between Two Balls](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MaxForceBetweenBalls.java) | [Leetcode](https://leetcode.com/problems/magnetic-force-between-two-balls/) |
 |43  | [Container With Most Water](https://github.com/gopronooob/DSA-Practice/blob/main/Array/ContainerWithMostWater.java) | [Leetcode](https://leetcode.com/problems/container-with-most-water/) |
 
-
 ### 2. String
 | No. | Problem | Practice Link |
 | --- | --------- | --------- |
-|1  | [Count Occurences of Anagrams](https://github.com/akshayPendbhaje/DSA-Practice/blob/main/Array/AnagramOccure.java) | [GFG](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1#) |
-|2| [Permutation in String](https://github.com/gopronooob/DSA-Practice/blob/main/Array/PermutationInString.java)|[Leetcode](https://leetcode.com/problems/permutation-in-string/)
-|3| [Longest K char substring ](https://github.com/gopronooob/DSA-Practice/blob/main/Array/LongestKcharSubStr.java)|[GFG](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/)
-
+|1  | [Longest k unique characters substring](https://github.com/gopronooob/DSA-Practice/blob/main/String/LongestKUniqueCharSubstring.java) | [GFG](https://practice.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1#) |
+|2  | [Minimum Window substring](https://github.com/gopronooob/DSA-Practice/blob/main/String/MinimumWindowSubstring.java) | [Leetcode](https://leetcode.com/problems/minimum-window-substring/) |
+|3  | [Count Occurences of Anagrams](https://github.com/gopronooob/DSA-Practice/blob/main/String/CountOccurencesOfAnagrams.java) | [GFG](https://practice.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1#) |
+|4  | [Reorganize String](https://github.com/gopronooob/DSA-Practice/blob/main/String/ReorganizeString.java) | [Leetcode](https://leetcode.com/problems/reorganize-string/) |
+|5  | [Choose and Swap](https://github.com/gopronooob/DSA-Practice/blob/main/String/ChooseAndSwap.java) | [GFG](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#) |
+|6  | [Group Anagrams](https://github.com/gopronooob/DSA-Practice/blob/main/String/GroupAnagrams.java) | [Leetcode](https://leetcode.com/problems/group-anagrams/) |
+|7  | [Rabin Karp Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/String/RabinKarp.java) | [-](-) |
+|8  | [Knuth Morris Pratt Algorithm](https://github.com/gopronooob/DSA-Practice/blob/main/String/KnuthMorrisPratt.java) | [-](-) |
+|9  | [Longest Happy Prefix](https://github.com/gopronooob/DSA-Practice/blob/main/String/LongestHappyPrefix.java) | [Leetcode](https://leetcode.com/problems/longest-happy-prefix/) |
+|10  | [Count Reversals](https://github.com/gopronooob/DSA-Practice/blob/main/String/CountReversals.java) | [GFG](https://practice.geeksforgeeks.org/problems/count-the-reversals0401/1#) |
+|11  | [Roman to Integer](https://github.com/gopronooob/DSA-Practice/blob/main/String/RomanToInteger.java) | [Leetcode](https://leetcode.com/problems/roman-to-integer/) |
+|12  | [Longest Common Prefix](https://github.com/gopronooob/DSA-Practice/blob/main/String/LongestCommonPrefix.java) | [Leetcode](https://leetcode.com/problems/longest-common-prefix/) |
+|13  | [Minimum Number of Flips to Make the Binary String Alternating](https://github.com/gopronooob/DSA-Practice/blob/main/String/MinimumFlips.java) | [Leetcode](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/) |
+|14  | [Minimum Number of Swaps to Make the String Balanced](https://github.com/gopronooob/DSA-Practice/blob/main/String/MinimumSwapsToBalanceBrackets.java) | [Leetcode](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) |
+|15  | [Smallest Subsequence of Distinct Characters](https://github.com/gopronooob/DSA-Practice/blob/main/String/SmallestDistinctSubsequence.java) | [Leetcode](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) |
+|16  | [Remove All Adjacent Duplicates In String](https://github.com/gopronooob/DSA-Practice/blob/main/String/RemoveAdjacentDuplicates.java) | [Leetcode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
+|17  | [Isomorphic Strings](https://github.com/gopronooob/DSA-Practice/blob/main/String/IsomorphicStrings.java) | [Leetcode](https://leetcode.com/problems/isomorphic-strings/) |
+|18  | [Maximum difference of zeros and ones in binary string](https://github.com/gopronooob/DSA-Practice/blob/main/String/MaxDifferenceInBinaryString.java) | [GFG](https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1#) |
 
 
 ### 3. Stack
