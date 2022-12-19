@@ -43,7 +43,7 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |17  | [The Celebrity Problem](https://github.com/gopronooob/DSA-Practice/blob/main/Array/CelebrityProblem.java) | [GFG](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) |
 |18  | [Minimize maximum difference between the heights](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MinimizeHeights.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#) |
 |19  | [Find the Duplicate Number](https://github.com/gopronooob/DSA-Practice/blob/main/Array/DuplicateNumber.java) | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
-|20  | [Merge 2 sorted arrays without extra space](https://github.com/gopronooob/DSA-Practice/blob/main/Array/Merge2SortedArrays.java) | [GFG](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1#) |
+|20  | [Merge 2 sorted arrays without extra space](https://github.com/gopronooob/DSA-Practice/blob/main/Array/Merge2SortedArrays.java) | [Leetcode](https://leetcode.com/problems/merge-sorted-array/) |
 |21  | [Maximum Subarray (Kadane's Algorithm)](https://github.com/gopronooob/DSA-Practice/blob/main/Array/MaxSubArray.java) | [Leetcode](https://leetcode.com/problems/maximum-subarray/) |
 |22  | [Next Permutation](https://github.com/gopronooob/DSA-Practice/blob/main/Array/NextPermutation.java) | [Leetcode](https://leetcode.com/problems/next-permutation/) |
 |23  | [Count Inversions](https://github.com/gopronooob/DSA-Practice/blob/main/Array/CountInversions.java) | [GFG](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1#) |
