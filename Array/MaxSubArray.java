@@ -52,7 +52,7 @@ class Solution {
 
         if(flag==1)
         {
-            return dp[index][flag]=Math.max(helper(nums,index+1,1,dp)+nums[index],0);
+            return dp[index][flag]=Math.max(helper(nums,index+1,1,dp)+nums[index],0);  
         }
         return dp[index][flag]=Math.max(helper(nums,index+1,1,dp)+nums[index],helper(nums,index+1,0,dp));
     }
