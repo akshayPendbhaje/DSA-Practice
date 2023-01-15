@@ -115,6 +115,24 @@ For C++ Solutions refer to : [Repo](https://github.com/pr7prashant/dsa-practice)
 |6  | [Starting point of loop]() | [Leetcode](https://leetcode.com/problems/linked-list-cycle-ii/) |
 |8  | [Delete the Middle Node of a Linked List]()|[Leetcode](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)
 
+### 6. Greedy
+| No. | Problem | Practice Link |
+| --- | --------- | --------- |
+|1  | [N Meetings in One Room](gopronooob/DSA-Practice/blob/main/Greedy/MeetingRoom.java) | [GFG](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1#) |
+|2  | [Huffman Encoding](gopronooob/DSA-Practice/blob/main/Greedy/HuffmanEncoding.java) | [GFG](https://practice.geeksforgeeks.org/problems/huffman-encoding3345/1#) |
+|3  | [Knapsack Problem](gopronooob/DSA-Practice/blob/main/Greedy/KnapsackProblem.java) | [Leetcode](https://leetcode.com/problems/maximum-units-on-a-truck/) |
+|4  | [Choose and Swap](gopronooob/DSA-Practice/blob/main/Greedy/ChooseAndSwap.java) | [GFG](https://practice.geeksforgeeks.org/problems/choose-and-swap0531/1#) |
+|5  | [Minimum Platforms](gopronooob/DSA-Practice/blob/main/Greedy/MinimumPlatforms.java) | [GFG](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#) |
+|6  | [Best Time to Buy and Sell Stock 2](gopronooob/DSA-Practice/blob/main/Greedy/BuyAndSellStock2.java) | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+|7  | [Maximize Sum Of Array After K Negations](gopronooob/DSA-Practice/blob/main/Greedy/MaxSumAfterKNegations.java) | [Leetcode](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) |
+|8  | [Defence of a Kingdom](gopronooob/DSA-Practice/blob/main/Greedy/DefenceOfAKingdom.java) | [Codechef](https://www.codechef.com/problems/WCE0004) |
+|9  | [Die Hard](gopronooob/DSA-Practice/blob/main/Greedy/DieHard.java) | [SPOJ](https://www.spoj.com/problems/DIEHARD/) |
+|10  | [Wine Trading in Gergovia](gopronooob/DSA-Practice/blob/main/Greedy/WineTrading.java) | [SPOJ](https://www.spoj.com/problems/GERGOVIA/) |
+|11  | [Chocolate](gopronooob/DSA-Practice/blob/main/Greedy/Chocolate.java) | [SPOJ](https://www.spoj.com/problems/CHOCOLA/) |
+|12  | [Arranging Amplifiers](gopronooob/DSA-Practice/blob/main/Greedy/ArrangingAmplifiers.java) | [SPOJ](https://www.spoj.com/problems/ARRANGE/) |
+|13  | [Smallest Number with Sum S and D Digits](gopronooob/DSA-Practice/blob/main/Greedy/SmallestNumber.java) | [GFG](https://practice.geeksforgeeks.org/problems/smallest-number5829/1#) |
+|14  | [Reorganize String](gopronooob/DSA-Practice/blob/main/Greedy/ReorganizeString.java) | [Leetcode](https://leetcode.com/problems/reorganize-string/) |
+|15  | [Wiggle Subsequence](gopronooob/DSA-Practice/blob/main/Greedy/WiggleSubsequence.java) | [Leetcode](https://leetcode.com/problems/wiggle-subsequence/) |
 
 ### 7. Recursion and Backtracking
 | No. | Problem | Practice Link |
